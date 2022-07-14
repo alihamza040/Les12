@@ -1,0 +1,102 @@
+header
+{
+width:100%;
+height:200px;
+background-color:black;
+color:white;
+text-align:center;
+}
+
+footer
+{
+  width:100%;
+  height:200px;
+  background-color:white;
+  color:black;
+  text-align:center;
+  border:2px solid;
+}
+
+table, th, td
+{
+  border:1px solid black;
+  border-collapse: collapse;
+
+}
+
+img {
+  width:50px;
+  height:30px;
+}
+
+#a {
+  background-color:#F0F8FF
+}
+
+#b {
+  background-color:#FAEBD7;
+  color:green;
+}
+#c {
+  background-color:#00FFFF;
+}
+#d {
+  background-color:#7FFFD4;
+}
+#e {
+  background-color:#F0FFFF;
+}
+#f {
+  background-color:#F5F5DC;
+}
+#g {
+  background-color:#FFE4C4;
+}
+#z {
+  background-color:#FFEBCD;
+}
+#h {
+  background-color:#0000FF;
+}
+#i {
+  background-color:#8A2BE2;
+}
+#j {
+  background-color:#A52A2A;
+}
+#k {
+  background-color:#DEB887;
+}
+#l {
+  background-color:#5F9EA0;
+}
+#m {
+  background-color:#7FFF00;
+}
+
+#n {
+  background-color:#D2691E;
+}
+#o {
+  background-color:#FF7F50;
+}
+#p {
+  background-color:#6495ED;
+}
+#a {
+  background-color:#FFF8DC;
+}
+#q {
+  background-color:#DC143C;
+}
+#r {
+  background-color:#00FFFF;
+}
+
+#s {
+  background-color:#00008B;
+}
+
+#t {
+  background-color:#008B8B;
+}
